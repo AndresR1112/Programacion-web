@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+.top{
+    background-color: rgba(248, 255, 116, 0.484);
+}
+.color1{
+    background-color: rgb(125, 201, 255);
+}
+.color2{
+    background-color: rgb(135, 69, 251);
+}
+.libre{
+    background-color: rgb(255, 255, 255);
+}
+.lab{
+    background-color: rgb(154, 121, 73);
+}

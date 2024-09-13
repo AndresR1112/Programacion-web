@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(230, 0, 255);
+    font-family: cursive;
+    padding: 5EM;
+
+}
+
+.fondoDeLaTabla {
+    background-color: #ff0000;
+    border: rgb(255, 255, 255);
+    border-radius: 200px
+}
+
+.fondoAzul {
+    background-color: rgb(50, 165, 0);
+}
+
+.fondoNegro {
+    background-color: rgb(255, 0, 0);
+}
+
+.imagen {
+    width: 300px;
+}
+
+.textoTitulo {
+    background-color: black;
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.textoParrafo {
+    font-size: 1rem;
+    color: rgb(255, 255, 255);
+    text-align: justify;
+}
+
+.separacio {
+    padding: 5em;
+    background-color: rgb(255, 255, 255);
+}
+
+.textoSubtitulo {
+    background-color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.borde {
+    border: rgb(251, 0, 255);
+    border-radius: 10px;
+}
+.biñetas{   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 0, 0);
+    text-align: left;
+    background-color: rgb(50, 165, 0);
+}
+.despedida{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    background-color: rgb(255, 255, 255);
+}

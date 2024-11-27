@@ -1,24 +1,28 @@
 @import url(https://db.onlinewebfonts.com/c/016f50054d487d421dc18257a191a3ad?family=Noteworthy+Light);
+body{
+    background: rgb(113,18,18);
+background: linear-gradient(90deg, rgba(113,18,18,1) 15%, rgba(66,38,126,1) 59%, rgba(1,41,64,1) 100%);
+}
 
 body {
-    background-color: rgb(230, 0, 255);
+    background-color: #012940;
     font-family: cursive;
     padding: 5EM;
 
 }
 
 .fondoDeLaTabla {
-    background-color: #ff0000;
+    background-color: #42267e;
     border: rgb(255, 255, 255);
     border-radius: 200px
 }
 
 .fondoAzul {
-    background-color: rgb(50, 165, 0);
+    background-color: rgb(16, 27, 75);
 }
 
 .fondoNegro {
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(103, 31, 31);
 }
 
 .imagen {
@@ -26,10 +30,10 @@ body {
 }
 
 .textoTitulo {
-    background-color: black;
+    background-color: white;
     text-align: center;
     font-size: xx-large;
-    color: rgb(255, 255, 255);
+    color:          rgb(0, 0, 0);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-family: "Noteworthy Light";
 }
@@ -55,15 +59,16 @@ body {
 }
 
 .borde {
-    border: rgb(251, 0, 255);
+    border: red;
     border-radius: 10px;
 }
 .biñetas{   
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-family: "Noteworthy Light";
+    color: #711212;
+    text-align: center;
     color: rgb(255, 0, 0);
-    text-align: left;
-    background-color: rgb(50, 165, 0);
+    background-color: #ffffff;
 }
 .despedida{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
